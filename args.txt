@@ -1,7 +1,7 @@
 mic_choice=1
 audio_path=record-audio.wav
-x_appid=
-api_key=
-APP_ID=
-API_KEY=
-SECRET_KEY=
+x_appid=科大讯飞的APIID
+api_key=科大讯飞的APIKEY
+APP_ID=百度的APPID
+API_KEY=百度的APIKEY
+SECRET_KEY=百度的SECRETKEY
