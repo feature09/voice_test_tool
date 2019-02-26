@@ -1,0 +1,7 @@
+mic_choice=1
+audio_path=record-audio.wav
+x_appid=5bc9927c
+api_key=4deb914539f860e4997c72854967268b
+APP_ID=11767581
+API_KEY=gG320Xcbg6HwK76LNWucM2B8
+SECRET_KEY=9fuPKBBbcQzVo2SVOrI4k8T7bPGSAp13
